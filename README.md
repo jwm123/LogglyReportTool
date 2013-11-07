@@ -28,6 +28,6 @@ Usage
      -h,--help                  Prints this message.
      -q,--query <query>         Query to run.
      -s,--subject <subject>     Email subject. (Does nothing if file option
-                            not present.)
+                                not present.)
         --to <to>               End time for search. Default to now.
 ```
